@@ -2,7 +2,11 @@
 <h3 align="center">A third-year computer science student at IPB University. Passionate about information technology and web development.</h3>
 
 
+<<<<<<< HEAD
 ###
+=======
+<hr>
+>>>>>>> 3a5a2dedbb9349e2c5456bc1d029f7ae90ca61a3
 
 
 ## 📊 Github Stats
@@ -10,7 +14,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rifqifazzam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rifqifazzam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   
+<<<<<<< HEAD
   <img src="https://streak-stats.demolab.com?user=rifqifazzam&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+=======
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=rifqifazzam&theme=dark&hide_border=false)<br/>
+>>>>>>> 3a5a2dedbb9349e2c5456bc1d029f7ae90ca61a3
   
 </div>
 
