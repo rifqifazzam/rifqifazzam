@@ -1,5 +1,5 @@
 ## 👋 About Me
-Hi i'm Rifqi Fauzan Azzam. Passionate about information technology and web development. Eager to learn new technologies, and committed to continuous growth.
+Hi i'm Rifqi Fauzan Azzam. Passionate about information technology. Currently focussing on web and mobile app development. Eager to learn new technologies, and committed to continuous growth.
 
 
 ## 💻 Tech Stack
